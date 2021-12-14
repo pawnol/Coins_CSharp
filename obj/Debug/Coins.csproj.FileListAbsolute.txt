@@ -1,0 +1,10 @@
+\\et-fileserver\staff\pawnol\Desktop\Coins\bin\Debug\Coins.exe.config
+\\et-fileserver\staff\pawnol\Desktop\Coins\bin\Debug\Coins.exe
+\\et-fileserver\staff\pawnol\Desktop\Coins\bin\Debug\Coins.pdb
+\\et-fileserver\staff\pawnol\Desktop\Coins\obj\Debug\Coins.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\Coins\obj\Debug\Coins.CoinsForm.resources
+\\et-fileserver\staff\pawnol\Desktop\Coins\obj\Debug\Coins.Properties.Resources.resources
+\\et-fileserver\staff\pawnol\Desktop\Coins\obj\Debug\Coins.csproj.GenerateResource.cache
+\\et-fileserver\staff\pawnol\Desktop\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\Coins\obj\Debug\Coins.exe
+\\et-fileserver\staff\pawnol\Desktop\Coins\obj\Debug\Coins.pdb
